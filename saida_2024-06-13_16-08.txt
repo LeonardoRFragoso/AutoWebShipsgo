@@ -1,0 +1,184 @@
+
+FATURA          CLIENTE                                                      CONTEINER      
+=============== ============================================================ ============== 
+AD24156         COLOROBBIA BRASIL PRODUTOS PARA CERAMICA LTDA                TGHU-178.600-0 
+AD24019         URUMAX COMERCIO DE IMPORTACAO E EXPORTACAO LTDA              TCNU-505.674-9 
+AD24283         URUMAX COMERCIO DE IMPORTACAO E EXPORTACAO LTDA              TCNU-201.126-8 
+AD24157         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          TCLU-855.342-2 
+AD23259         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          TCKU-386.824-5 
+AD24313         CYAN QUIMICA LTDA                                            SLZU-257.497-0 
+AD24360         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             MSKU-540.881-3 
+AD24185         PRO - LINHAS NORDESTE LTDA                                   MRSU-039.858-6 
+AD24282         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             MRKU-904.068-8 
+AD24259         MMR INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA (CO)      MEDU-146.501-0 
+AD24096         BUDNY INDUSTRIA E COMERCIO LTDA                              KOCU-415.356-0 
+AD24220         CYAN QUIMICA LTDA                                            HLBU-910.412-4 
+AD24319         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             HASU-150.352-0 
+AD24209         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             HASU-148.261-8 
+AD24315         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             HASU-136.137-0 
+AD24134         MMR INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA (CO)      FCIU-249.081-7 
+AD24215         RURAL COMERCIO DE PRODUTOS AGRICOLAS LTDA                    FBIU-550.856-4 
+AD24314         CYAN QUIMICA LTDA                                            EXFU-663.495-4 
+AD24198         MGB PNEUS IMPORTACAO E DISTRIBUICAO LTDA                     CAIU-707.673-5 
+AD24149         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             BSIU-309.596-4 
+
+FATURA          CLIENTE                                                      CONTEINER      
+=============== ============================================================ ============== 
+AD24344         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             BSIU-309.596-4 
+AD24381         TURBRAS IMPORTACAO E EXPORTACAO LTDA                         APZU-454.604-6 
+AD23294         MOA COMERCIO LTDA                                            <null>         
+AD24221         CYAN QUIMICA LTDA                                            <null>         
+AD24223         CYAN QUIMICA LTDA                                            <null>         
+AD24333         CYAN QUIMICA LTDA                                            <null>         
+AD24335         CYAN QUIMICA LTDA                                            <null>         
+AD24345         CYAN QUIMICA LTDA                                            <null>         
+AD24351         CYAN QUIMICA LTDA                                            <null>         
+AD24174         CYAN QUIMICA LTDA                                            <null>         
+AD24387         CYAN QUIMICA LTDA                                            <null>         
+AD24099         CYAN QUIMICA LTDA                                            <null>         
+AD24266         PLASTICO STORE LTDA                                          <null>         
+AD24347         LITORAL SUL PECAS LTDA                                       <null>         
+AD24278         AP TRADE IMPORTACAO LTDA                                     <null>         
+AD24098         AP TRADE IMPORTACAO LTDA                                     <null>         
+AD24322         MASTERPLAST RESINAS LTDA                                     <null>         
+AD24368         MASTERPLAST RESINAS LTDA                                     <null>         
+AD24246         PRO - LINHAS NORDESTE LTDA                                   <null>         
+AD24247         PRO - LINHAS NORDESTE LTDA                                   <null>         
+
+FATURA          CLIENTE                                                      CONTEINER      
+=============== ============================================================ ============== 
+AD24404         TOTAL SURFACES BRASIL LTDA                                   <null>         
+AD24160         TOTAL SURFACES BRASIL LTDA                                   <null>         
+AD24280         TOTAL SURFACES BRASIL LTDA                                   <null>         
+AD24260         JORGE EMILIO FERNANDES FILHO                                 <null>         
+AD24339         O-NINE COMERCIO VAREJISTA LTDA                               <null>         
+AD24303         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24401         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24403         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24405         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24406         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24028         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24238         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24250         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24254         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24255         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24256         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24257         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24268         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24367         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+AD24377         BUDNY INDUSTRIA E COMERCIO LTDA                              <null>         
+
+FATURA          CLIENTE                                                      CONTEINER      
+=============== ============================================================ ============== 
+AD24253         SCHWANCK ESQUADRIAS DE PVC LTDA                              <null>         
+IMP-0045/23     SCHWANCK ESQUADRIAS DE PVC LTDA                              <null>         
+AD24311         ESTAQ SONDAGENS E FUNDACOES LTDA                             <null>         
+AD24042         FUNGEO FUNDACOES E GEOLOGIA LTDA                             <null>         
+AD24075         FUNGEO FUNDACOES E GEOLOGIA LTDA                             <null>         
+AD24306         OPEN MARKET COMERCIO EXTERIOR LTDA                           <null>         
+AD24310         OPEN MARKET COMERCIO EXTERIOR LTDA                           <null>         
+AD24293         OPEN MARKET COMERCIO EXTERIOR LTDA                           <null>         
+AD24107         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24201         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24202         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24203         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24204         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24205         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24115         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24214         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24317         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD23321         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24324         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24334         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+
+FATURA          CLIENTE                                                      CONTEINER      
+=============== ============================================================ ============== 
+AD24143         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24144         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24342         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24354         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24359         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24175         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24176         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24177         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24178         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24179         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD23273         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24374         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24180         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD23285         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24289         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24384         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24385         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24092         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24093         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24195         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+
+FATURA          CLIENTE                                                      CONTEINER      
+=============== ============================================================ ============== 
+AD24294         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24391         PAVEI BRASIL COMERCIO EXTERIOR LTDA                          <null>         
+AD24251         FH SERVICOS INDUSTRIA E COMERCIO LTDA                        <null>         
+AD24348         BLUMENAU HIDRAULICA E FERRAMENTAS LTDA                       <null>         
+AD24378         MGB PNEUS IMPORTACAO E DISTRIBUICAO LTDA                     <null>         
+AD24400         RURAL COMERCIO DE PRODUTOS AGRICOLAS LTDA                    <null>         
+AD24393         RURAL COMERCIO DE PRODUTOS AGRICOLAS LTDA                    <null>         
+AD24394         RURAL COMERCIO DE PRODUTOS AGRICOLAS LTDA                    <null>         
+AD24395         RURAL COMERCIO DE PRODUTOS AGRICOLAS LTDA                    <null>         
+AD24398         RURAL COMERCIO DE PRODUTOS AGRICOLAS LTDA                    <null>         
+AD24399         RURAL COMERCIO DE PRODUTOS AGRICOLAS LTDA                    <null>         
+AD24363         ALFABAG FABRICACAO DE PRODUTOS TEXTEIS LTDA                  <null>         
+AD24288         W3 COMERCIAL IMPORTADORA E EXPORTADORA LTDA                  <null>         
+AD24353         BRAVO INDUSTRIA DE EQUIPAMENTOS PESADOS LTDA                 <null>         
+AD24325         COLOROBBIA BRASIL PRODUTOS PARA CERAMICA LTDA                <null>         
+AD24326         COLOROBBIA BRASIL PRODUTOS PARA CERAMICA LTDA                <null>         
+AD24327         COLOROBBIA BRASIL PRODUTOS PARA CERAMICA LTDA                <null>         
+AD24366         COLOROBBIA BRASIL PRODUTOS PARA CERAMICA LTDA                <null>         
+AD24173         COLOROBBIA BRASIL PRODUTOS PARA CERAMICA LTDA                <null>         
+AD24237         NEW LIGHT COMERCIO DE PRODUTOS ELETRONICOS LTDA              <null>         
+
+FATURA          CLIENTE                                                      CONTEINER      
+=============== ============================================================ ============== 
+AD24252         NEW LIGHT COMERCIO DE PRODUTOS ELETRONICOS LTDA              <null>         
+AD24269         NEW LIGHT COMERCIO DE PRODUTOS ELETRONICOS LTDA              <null>         
+AD24270         NEW LIGHT COMERCIO DE PRODUTOS ELETRONICOS LTDA              <null>         
+AD23244         URUMAX COMERCIO DE IMPORTACAO E EXPORTACAO LTDA              <null>         
+AD23245         URUMAX COMERCIO DE IMPORTACAO E EXPORTACAO LTDA              <null>         
+AD23176         URUMAX COMERCIO DE IMPORTACAO E EXPORTACAO LTDA              <null>         
+AD24373         URUMAX COMERCIO DE IMPORTACAO E EXPORTACAO LTDA              <null>         
+AD24383         URUMAX COMERCIO DE IMPORTACAO E EXPORTACAO LTDA              <null>         
+IMP-0043/23     URUMAX COMERCIO DE IMPORTACAO E EXPORTACAO LTDA              <null>         
+AD24208         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24407         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24318         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24336         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24337         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24147         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24346         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24357         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24358         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24361         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24362         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+
+FATURA          CLIENTE                                                      CONTEINER      
+=============== ============================================================ ============== 
+AD24379         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24388         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24389         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24390         SAINTSTEEL COMERCIO INTERNACIONAL DE METAIS LTDA             <null>         
+AD24307         GLOBAL OPPORTUNITIES IMPORTACAO E EXPORTACAO LTDA            <null>         
+AD24240         GLOBAL OPPORTUNITIES IMPORTACAO E EXPORTACAO LTDA            <null>         
+AD24380         MMR INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA           <null>         
+AD24382         PEDRASPLAST INDUSTRIA E COMERCIO DE PLASTICOS LTDA           <null>         
+AD24111         POLITUPAN - INDUSTRIA E COMERCIO DE EMBALAGENS LTDA          <null>         
+AD24112         POLITUPAN - INDUSTRIA E COMERCIO DE EMBALAGENS LTDA          <null>         
+AD24350         POLITUPAN - INDUSTRIA E COMERCIO DE EMBALAGENS LTDA          <null>         
+AD24375         POLITUPAN - INDUSTRIA E COMERCIO DE EMBALAGENS LTDA          <null>         
+AD24376         POLITUPAN - INDUSTRIA E COMERCIO DE EMBALAGENS LTDA          <null>         
+AD24199         POLITUPAN - INDUSTRIA E COMERCIO DE EMBALAGENS LTDA          <null>         
+AD24216         MMR INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA (CO)      <null>         
+AD24267         MMR INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA (CO)      <null>         
+AD24296         MMR INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA (CO)      <null>         
+AD24291         TECNO DIAMANT DO BRASIL INDUSTRIA E COMERCIO DE PECAS LTDA   <null>         
+AD24301         ASSOCIACAO BENEFICENTE DA INDUSTRIA CARBONIFERA DE SANTA CAT <null>         
+

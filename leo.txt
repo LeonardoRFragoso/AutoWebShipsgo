@@ -1,0 +1,8 @@
+continue a partir do trecho "# Clicar no seletor de filtro"
+
+continue a partir do trecho "# Clicar no botão "x" pelo novo XPath"
+
+
+except Exception as e:
+                logging.error(f"Erro ao verificar ou registrar o contêiner: {e}")
+                print(f"Erro ao verificar ou registrar o contêiner: {e}")
